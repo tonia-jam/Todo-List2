@@ -6,7 +6,7 @@ $('button').on('click', () => {
     };
     $("ul").append(
         `<li>${todo}</li>
-        <button.done>`
+        <button>`
         );
 });
 
